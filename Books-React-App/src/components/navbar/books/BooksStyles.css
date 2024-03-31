@@ -1,0 +1,31 @@
+.books {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #0a0101;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-size: 32px;
+    color: #333;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .dot-list {
+    list-style-type: disc;
+  }
+  
+  .dot-list li {
+    margin-bottom: 10px;
+    color: #444;
+  }
